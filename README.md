@@ -36,6 +36,4 @@ Antes de correr las pruebas, debemos traducir los archivos `.feature` (Gherkin) 
 ```bash
 npx bddgen
 
-ejemplo de test ejecutado
-
-![alt text](image.png)
+Nota: Por buenas practicas no subimos los resultados al repositorio pero aqui excepcionalmente se subieron para mostrar evidencia de la ejecucion correcta.
