@@ -1,0 +1,20 @@
+{
+  "name": "reto2jho",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx bddgen && npx playwright test",
+    "report": "npx playwright show-report"
+  },
+  "keywords": [],
+  "author": "JHO",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.4.0",
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.3",
+    "playwright-bdd": "^8.4.2"
+  }
+}
