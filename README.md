@@ -13,8 +13,9 @@ Sigue estos pasos para levantar el proyecto en tu máquina local:
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone https://github.com/jhontesterqa-ops/reto2JHO.git
-    cd reto2JHO
+    git clone https://github.com/jhontesterqa-ops/Petstore_API_Automation.git
+    cd Petstore_API_Automation
+
     ```
 
 2.  **Instalar dependencias:**
